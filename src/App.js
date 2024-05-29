@@ -4,7 +4,7 @@ import { LoginPage } from './pages/LoginPage';
 function App() {
   return (
     <div>
-      
+      {console.log("This is developed by Girish")}
       <nav className= "app-navigation">
        <ul className= "app-nav-list">
         <li>Login</li>
