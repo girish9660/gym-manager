@@ -1,0 +1,19 @@
+body{
+
+    ul{
+        list-style-type:none;
+        padding:0;
+        display: inline-flex;
+
+        li{
+            margin: 10px;
+
+        }
+    }
+
+}
+
+@import './assets/scss/navigation.scss';
+@import './assets/scss/loginpage.scss';
+@import './assets/scss/inputComponent.scss';
+@import './assets/scss/buttonComponent.scss';
