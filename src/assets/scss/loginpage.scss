@@ -1,3 +1,10 @@
 .app-login-page{
+    margin: 0px;
+    position: relative; /* Make sure the overlay is positioned relative to this element */
+    background-image: url(https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_1100,q_auto:eco,dpr_2,f_auto,fl_progressive/v1/cult-media/v2web/centers/220_Cult_HSR%2024th%20Main%20_TITLE_2021-11-09T09:53:30.221Z.png);
+    padding: 10px;
+    background-size: cover; 
+    height: 670px;
+    background-position: center;  
     padding: 10px;
 }

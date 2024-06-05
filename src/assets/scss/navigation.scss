@@ -1,11 +1,18 @@
 .app-navigation {
+    position: relative; /* Make sure the overlay is positioned relative to this element */
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/304/196/925/yellow-green-pastel-blur-wallpaper-preview.jpg);
+    /* background-size: cover; */
+    /* background-position: center;
+    padding: 10px; */
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: -1px;
     border-bottom: 1px solid darkcyan;
     
 }
 
 .app-nav-list {
-    
+    font-size: 29px;
+    font-family: ui-rounded;
+    font-size: large;
     margin: 10px;
 }

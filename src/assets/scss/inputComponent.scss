@@ -1,12 +1,17 @@
 .app-input-container{
     margin: 10px;
+    text-align: center;
 }
 
 .app-input-label{
+    margin-left: 100px;
     margin: 10px;
     font-size: 15px;
     padding-bottom: 0px;
     margin-bottom: 0px;
+    margin: 50px;
+    font-size: larger;
+    padding-right: 4px;
 }
 .app-input-component{
     width: 300px;
@@ -14,4 +19,10 @@
     border: 0;
     border: 2px solid #4B0082;
     border-radius: 4px;
+}
+.app-password-error{
+    text-align: center;
+    p {
+        color: red;
+      }
 }
